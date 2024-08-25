@@ -1,0 +1,6 @@
+Hi Bailey! Congratulations on an outstanding homework assignment! You’ve demonstrated techniques for hardening websites, explored web vulnerabilities, and developed strategies for mitigating them. 
+You successfully exploited a vulnerability in the first web app and captured a screenshot confirming access to /etc/hosts. Your recommended mitigation strategies, including server-side validation and access control on objects, are excellent. 
+Great job with this deliverable! You also successfully brute-forced your second web app, confirmed by a screenshot of the exploit and successful login. 
+Your mitigation strategies, including account policies such as password rotation, password lockout, and multi-factor authentication (MFA), are spot-on. Excellent work on this deliverable! Your work on the final app exploit is impressive! 
+You confirmed your attack was successful and captured a screenshot showing the hooked browser in the navigation pane. Your recommended mitigation strategies, including server-side input validation, strong endpoint protection, and built-in browser controls, are outstanding.
+Amazing job here! Best, MU
